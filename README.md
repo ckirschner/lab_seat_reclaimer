@@ -98,7 +98,6 @@ may need to install `python3-tk` separately).
 
 ## Limitations
 
-- Windows and macOS only, because the config and log paths are hardcoded per OS.
 - Single-threaded reset. A classroom with many idle labs works through them one
   at a time.
 - The idle check assumes the platform reports `student_last_active` as an
