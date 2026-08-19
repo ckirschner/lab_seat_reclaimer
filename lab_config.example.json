@@ -1,0 +1,7 @@
+{
+  "base_url": "https://lab.example.com/api",
+  "idle_minutes": 15,
+  "poll_seconds": 60,
+  "log_path": "/tmp/logs.txt",
+  "classrooms_path": "/tmp/classrooms.txt"
+}
